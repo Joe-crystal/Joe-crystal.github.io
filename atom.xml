@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-10-07T12:36:09.183Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome to my blog!</title>
+    <link href="http://example.com/2022/10/07/Welcome/"/>
+    <id>http://example.com/2022/10/07/Welcome/</id>
+    <published>2022-10-07T11:41:31.000Z</published>
+    <updated>2022-10-07T12:36:09.183Z</updated>
+    
+    <content type="html"><![CDATA[<p>I’m the owner of this blog, a college student of Sichuan University majored in ComputerScience.<br>If you are playing the game 《三国志·战略版》, you can contact me.<br>My contact information:<br>QQ：1619751503<br>Wechat：huangzeye2000</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;I’m the owner of this blog, a college student of Sichuan University majored in ComputerScience.&lt;br&gt;If you are playing the game 《三国志·战略版》,</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
