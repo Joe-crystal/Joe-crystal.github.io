@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Welcome!</title>
+  <icon>https://www.gravatar.com/avatar/2f6e22e934afbf5f5bb3319a044d34f6</icon>
+  
+  <link href="http://huangzeye.com/atom.xml" rel="self"/>
+  
+  <link href="http://huangzeye.com/"/>
+  <updated>2022-10-08T13:22:36.046Z</updated>
+  <id>http://huangzeye.com/</id>
+  
+  <author>
+    <name>Joe-crystal</name>
+    <email>1619751503@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Black Saturday</title>
+    <link href="http://huangzeye.com/2022/10/08/Black-Saturday/"/>
+    <id>http://huangzeye.com/2022/10/08/Black-Saturday/</id>
+    <published>2022-10-08T13:21:49.000Z</published>
+    <updated>2022-10-08T13:22:36.046Z</updated>
+    
+    <content type="html"><![CDATA[<p>The first day after the National Day is almost Black Saturday. So busy I am the all day! Thanks to the rainy day, I can’t ride a shared bike. Everything is so inconvenient.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;The first day after the National Day is almost Black Saturday. So busy I am the all day! Thanks to the rainy day, I can’t ride a shared b</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome to my blog!</title>
+    <link href="http://huangzeye.com/2022/10/07/Welcome/"/>
+    <id>http://huangzeye.com/2022/10/07/Welcome/</id>
+    <published>2022-10-07T11:41:31.000Z</published>
+    <updated>2022-10-07T12:36:09.183Z</updated>
+    
+    <content type="html"><![CDATA[<p>I’m the owner of this blog, a college student of Sichuan University majored in ComputerScience.<br>If you are playing the game 《三国志·战略版》, you can contact me.<br>My contact information:<br>QQ：1619751503<br>Wechat：huangzeye2000</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;I’m the owner of this blog, a college student of Sichuan University majored in ComputerScience.&lt;br&gt;If you are playing the game 《三国志·战略版》,</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
