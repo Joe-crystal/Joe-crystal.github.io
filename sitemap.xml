@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.huangzeye.com/2022/10/07/Welcome/</loc>
+    <loc>https://blog.huangzeye.com/2022/10/08/Black-Saturday/</loc>
     
     <lastmod>2022-10-09</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://blog.huangzeye.com/2022/10/08/Black-Saturday/</loc>
+    <loc>https://blog.huangzeye.com/2022/10/07/Welcome/</loc>
     
     <lastmod>2022-10-09</lastmod>
     
@@ -29,7 +29,14 @@
 
   
   <url>
-    <loc>https://blog.huangzeye.com/tags/the-National-Day-busy-rain/</loc>
+    <loc>https://blog.huangzeye.com/tags/the-National-Day%EF%BD%9C%EF%BD%9Cbusy%EF%BD%9C%EF%BD%9Crain/</loc>
+    <lastmod>2022-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huangzeye.com/tags/welcome-game/</loc>
     <lastmod>2022-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
