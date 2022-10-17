@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.huangzeye.com/2022/10/17/The-damaged-shared-bike/</loc>
-    
-    <lastmod>2022-10-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.huangzeye.com/2022/10/13/Random%20parking/</loc>
     
     <lastmod>2022-10-17</lastmod>
@@ -20,9 +11,18 @@
   </url>
   
   <url>
-    <loc>https://blog.huangzeye.com/2022/10/10/sleep/</loc>
+    <loc>https://blog.huangzeye.com/2022/10/10/Sleep/</loc>
     
-    <lastmod>2022-10-10</lastmod>
+    <lastmod>2022-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.huangzeye.com/2022/10/17/The-damaged-shared-bike/</loc>
+    
+    <lastmod>2022-10-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -70,14 +70,14 @@
   </url>
   
   <url>
-    <loc>https://blog.huangzeye.com/tags/game/</loc>
+    <loc>https://blog.huangzeye.com/tags/sleep/</loc>
     <lastmod>2022-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.huangzeye.com/tags/sleep/</loc>
+    <loc>https://blog.huangzeye.com/tags/game/</loc>
     <lastmod>2022-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
